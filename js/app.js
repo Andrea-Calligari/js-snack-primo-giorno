@@ -18,3 +18,9 @@ let circle = product;//number
 
 console.log(circle)
 // console.log(product,PI)
+
+//ES-3
+let name = 'Marco'; //string
+sname = 'Carlo'; //string 
+
+console.log(sname)
